@@ -1,0 +1,10 @@
+{
+    "registerData": {
+        "email": "prueba",
+        "password": "correctPassword1",
+        "reenterPassword": "correctPassword1",
+        "answerSecretQuestion": "prueba123",
+        "userLogin": "challengeUser10"
+
+    }
+}
